@@ -1,4 +1,4 @@
-# ele
+# Vue2仿饿了么外卖点餐系统实训
 
 ## Project setup
 ```
