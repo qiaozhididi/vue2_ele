@@ -1,0 +1,10 @@
+$e-red: rgb(240, 20, 20);
+$e-gray: rgb(77, 85, 93);
+$e-white: #fff;
+
+
+
+// 把一些公共的背景或者边框颜色写成函数，方便引入
+@function eleblack($opacity: 1) {
+    @return rgba(7, 17, 27, $opacity)
+}
